@@ -1,0 +1,49 @@
+    .image {
+        width: 150px;
+        height: 150px;
+        display: block;
+        margin: auto;
+        box-shadow: 0px 1px 10px rgb(0, 0, 0, 0.4);
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .image2 {
+        width: 100px;
+        height: 100px;
+        display: block;
+        margin: auto;
+        box-shadow: 0px 1px 10px rgb(0, 0, 0, 0.4);
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .image3 {
+        width: 100px;
+        height: 100px;
+        display: block;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .box {
+        display: block;
+        margin: auto;
+    }
+    
+    .box-datos-tec {
+        display: block;
+        margin: auto;
+        box-shadow: 0px 1px 10px rgb(0, 0, 0, 0.4);
+    }
+    
+    .video {
+        width: 500px;
+        height: 315px;
+    }
+    
+    p {
+        text-align: justify;
+        margin: 20px;
+    }
